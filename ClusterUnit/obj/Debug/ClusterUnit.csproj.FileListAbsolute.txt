@@ -1,0 +1,11 @@
+D:\riscourse\RIS\ClusterUnit\bin\Debug\ClusterUnit.exe.config
+D:\riscourse\RIS\ClusterUnit\bin\Debug\ClusterUnit.exe
+D:\riscourse\RIS\ClusterUnit\bin\Debug\ClusterUnit.pdb
+D:\riscourse\RIS\ClusterUnit\bin\Debug\MPI.dll
+D:\riscourse\RIS\ClusterUnit\obj\Debug\ClusterUnit.csproj.AssemblyReference.cache
+D:\riscourse\RIS\ClusterUnit\obj\Debug\ClusterUnit.csproj.CoreCompileInputs.cache
+D:\riscourse\RIS\ClusterUnit\obj\Debug\ClusterU.085408FE.Up2Date
+D:\riscourse\RIS\ClusterUnit\obj\Debug\ClusterUnit.exe
+D:\riscourse\RIS\ClusterUnit\obj\Debug\ClusterUnit.pdb
+D:\riscourse\RIS\ClusterUnit\bin\Debug\Newtonsoft.Json.dll
+D:\riscourse\RIS\ClusterUnit\bin\Debug\Newtonsoft.Json.xml
